@@ -21,7 +21,7 @@ During my capstone project, my group divided the different areas of analysis amo
 
 <h2>Exfiltration Event Traffic:</h2>
 <div align="center">
-  <img src="./Screenshot%2026-05-24%124848.png" alt="Network Diagram" width="900">
+  <img src="./Screenshot%202026-05-24%20124848.png" alt="Network Diagram" width="900">
 </div>
 <!--
  ```diff
