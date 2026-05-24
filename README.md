@@ -23,6 +23,11 @@ During my capstone project, my group divided the different areas of analysis amo
 <div align="center">
   <img src="./Screenshot%202026-05-24%20124848.png" alt="Network Diagram" width="900">
 </div>
+
+<h2>Ports Used:</h2>
+<div align="center">
+  <img src="./Screenshot%202026-05-24%20124905.png" alt="Network Diagram" width="900">
+</div>
 <!--
  ```diff
 - text in red
