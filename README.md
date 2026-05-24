@@ -13,8 +13,7 @@ During my capstone project, my group divided the different areas of analysis amo
 
 <h2>Environments Used </h2>
 
-- <b>MacOS, Sequioa 15.2</b> (21H2)
-
+- <b>MacOS, Sequioa 15.2</b> 
 <h2>Documentation:</h2>
 <ul>
   <li><b><a href="./CapstoneNetworkAnalysis.pdf">View the PDF</a></b></li>
