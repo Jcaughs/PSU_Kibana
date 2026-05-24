@@ -19,9 +19,9 @@ During my capstone project, my group divided the different areas of analysis amo
   <li><b><a href="./CapstoneNetworkAnalysis.pdf">View the PDF</a></b></li>
 </ul>
 
-<h2>Network Diagram:</h2>
+<h2>Exfiltration Event Traffic:</h2>
 <div align="center">
-  <img src="./image.png" alt="Network Diagram" width="900">
+  <img src="./Screenshot%2026-05-24%124848.png" alt="Network Diagram" width="900">
 </div>
 <!--
  ```diff
