@@ -17,7 +17,7 @@ During my capstone project, my group divided the different areas of analysis amo
 
 <h2>Documentation:</h2>
 <ul>
-  <li><b><a href="./Network%20Analysis%20via%20PCAP-1.pdf">View the PDF</a></b></li>
+  <li><b><a href="./CapstoneNetworkAnalysis.pdf">View the PDF</a></b></li>
 </ul>
 
 <h2>Network Diagram:</h2>
